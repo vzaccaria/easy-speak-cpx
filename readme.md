@@ -20,4 +20,4 @@ It is composed of two files:
     
 3. Select the Circuit Playground Express in the "Tools > Boards" Menu
 
-4. Open `main.ino`
+4. Open `main.ino` and play with it as a normal Arduino sketch
