@@ -7,7 +7,7 @@ It is composed of two files:
 
 1.  `speech.h`: it is a file with a few audio samples, one for each
     letter of the alphabet.
-2.  `main.cpp`: a program that makes the CPX speak the work 'ONE'
+2.  `main.ino`: a program that makes the CPX speak the work 'ONE'
 
 # Steps to run it.
 
@@ -15,4 +15,9 @@ It is composed of two files:
     guide](https://learn.adafruit.com/adafruit-circuit-playground-express/set-up-arduino-ide)
     to install the CPX-Arduino environment.
 
-2.
+2.  Download and un-compress this repo on your machine (green button
+    "Clone or Download")
+    
+3. Select the Circuit Playground Express in the "Tools > Boards" Menu
+
+4. Open `main.ino`
