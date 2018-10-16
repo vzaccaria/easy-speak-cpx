@@ -16,7 +16,7 @@ It is composed of two files:
     to install the CPX-Arduino environment.
 
 2.  Download and un-compress this repo on your machine (green button
-    "Clone or Download")
+    above, "Clone or Download")
     
 3. Select the Circuit Playground Express in the "Tools > Boards" Menu
 
